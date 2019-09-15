@@ -3,7 +3,7 @@
 #### Using chatterbot library with text2speech capabilities.
  ---
  
-#### Restaurants vs Outlets
+#### User-Interface via Tkinter
 <img src="https://raw.githubusercontent.com/guptasoumya26/NormanChatbot/master/images/Capture.PNG" alt="norman-1"/>
 
 ### See a live demo on - 
