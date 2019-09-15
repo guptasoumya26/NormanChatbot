@@ -1,9 +1,12 @@
 # Norman Chatbot using ML and Deep Learning 
 
-#### Using chatterboot and text2speech capabilities.
+#### Using chatterbot library with text2speech capabilities.
  ---
+ 
+#### Restaurants vs Outlets
+<img src="https://raw.githubusercontent.com/guptasoumya26/NormanChatbot/master/images/Capture.PNG" alt="norman-1"/>
 
-### See a demo on - 
+### See a live demo on - 
 [Video-Link](https://github.com/guptasoumya26/NormanChatbot/raw/master/Demo.mp4)
  ---
  ### Contributors
